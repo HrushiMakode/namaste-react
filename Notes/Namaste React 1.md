@@ -1,4 +1,4 @@
-# Namaste React Episode 1
+# Namste React Episode 1 - Inception
 
 ### Notes 
     1. React.createElement return the object of react

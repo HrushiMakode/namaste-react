@@ -1,11 +1,11 @@
-Namaste React 2
+# Namaste React Episode 2 - Igniting our App
 
 ### Notes 
 	1. Bundler in Front-End (webpack,parcel,vite)
 	2. Bundler bundle , minify our code into production ready code
 	3. parcel is good package for bundle code
 
-#Parcel 
+# Parcel 
 	- Dev Build
 	- Local Server
 	- HMR - Hot Module Replacement
