@@ -3,6 +3,7 @@
 ### Notes 
     1. React.createElement return the object of react
     2. ReactDOM.render makes the react Element object into HTML document object 
+    3. React.createElement => Object => HTMLElement (render)
 
 
 ### Home Work :

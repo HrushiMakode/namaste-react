@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Namaste React with Akashay Saini",
   "scripts": {
-    "start": ""
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
   },
   "repository": "https://github.com/HrushiMakode/namaste-react.git",
   "author": "Hrushikesh Makode <makodehrushikesh@gmail.com>",
