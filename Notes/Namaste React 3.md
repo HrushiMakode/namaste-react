@@ -1,4 +1,4 @@
-# Namaste React Episode 2 - Igniting our App
+# Namaste React Episode 2 - Laying the foundation
 
 ### Notes 
     - npx parcel index.html
