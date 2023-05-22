@@ -47,7 +47,7 @@
 	3. You Should not put package.lock.json in .gitignore
 
 ---
-# Namaste React Episode 2 - Laying the foundation
+# Namaste React Episode 3 - Laying the foundation
 
 ### Notes 
     - npx parcel index.html
@@ -80,3 +80,36 @@
     - JSX ?
 
 ---
+
+
+# Namaste React Episode 4 - Talk is Cheap , show me the code
+
+### Desgin
+
+- Header
+	- Logo
+	- NavItems
+- Body
+	- Search
+ - RestaurantConatiner
+ 	- RestaurantCard
+		- Img
+		- Name, Rating,Cuisine
+- Footer
+	- Copyright
+ 	- Links
+ 	- Address
+	- Contanct
+ 
+
+ # Namaste React Episode 5 - Let's get Hooked
+
+ ## React Hooks
+ Normal JS utility Function 
+ - useState() 
+	- When Ever state variable chnages , React re-render the component
+ - useEffect()
+
+
+ Reconciliation Algorithm - ( React Fiber )
+
